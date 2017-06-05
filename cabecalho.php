@@ -13,11 +13,4 @@
         <link rel="stylesheet" href="bootstrap/css/estilo.css"
     </head>
     <body>
-    <table class="table table-bordered table-striped" style="background-color: white;">
-        <thead>
-        <tr>
-            <th>CPF</th>
-            <th>NOME</th>
-        </tr>
-        </thead>
-        <tbody>
+
